@@ -10,3 +10,5 @@ Technologies Used :
 2. Concept Used : Swing (for GUI)
 3. Database Used : SQLite (DB Browser for SQLite)
 4. IDE Used : BlueJ
+
+(Also the important libraries to be imported in the project like *.jar file required for JDBC database connectivity and rs2.xml file for net.proteanit.sql package is provided in the repository)
