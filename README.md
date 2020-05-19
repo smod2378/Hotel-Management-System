@@ -11,4 +11,4 @@ Technologies Used :
 3. Database Used : SQLite (DB Browser for SQLite)
 4. IDE Used : BlueJ
 
-(Also the important libraries to be imported in the project like *.jar file required for JDBC database connectivity and rs2.xml file for net.proteanit.sql package is provided in the repository)
+(Also the important libraries to be imported in the project like *.jar file required for JDBC database connectivity and rs2xml.jar file for net.proteanit.sql package is provided in the repository)
